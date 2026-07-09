@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Search, Plus, Filter, RefreshCw, CheckCircle, AlertCircle } from 'lucide-react';
 
-const MONDAY_TOKEN = 'eyJhbGciOiJIUzI1NiJ9.eyJ0aWQiOjY4MDkwNzU0NiwiYWFpIjoxMSwidWlkIjo1NTAzNTE4MCwiaWFkIjoiMjAyNi0wNy0wOVQyMDozMzo0MC4wMDBaIiwicGVyIjoibWU6d3JpdGUiLCJhY3RpZCI6MTQ2OTU4ODksInJnbiI6InVzZTEifQ.FMGgSYZTgw23Y7vZ6pv4lcwL8KF6KcQrDkrIom9ukU8';
+const MONDAY_TOKEN = 'eyJhbGciOiJIUzI1NiJ9.eyJ0aWQiOjY4MDkzNTg2MCwiYWFpIjoxMSwidWlkIjo1NTAzNTE4MCwiaWFkIjoiMjAyNi0wNy0wOVQyMjowOToxMy41MzhaIiwicGVyIjoibWU6d3JpdGUiLCJhY3RpZCI6MTQ2OTU4ODksInJnbiI6InVzZTEifQ.fXpRL7-aJQz5mA9Pv-o83RHrBCqc8j6z9_n8zsk2vcg';
 const PARENT_BOARD_ID = 18412388048;
 const SUBITEM_BOARD_ID = 18412388745;
 
